@@ -30,8 +30,14 @@ The goal was to identify **key drivers of churn** and propose **actionable recom
 * **High-Risk %:** 1.44%
 
 ---
+## 📊 Dashboard Preview
+
+### 💰 Revenue Performance Overview
+
+![Dashboard](/dashboard.png)
 
 ## 📈 Dashboard Insights
+
 
 ### 🔴 Customer Behavior
 
