@@ -32,7 +32,7 @@ The goal was to identify **key drivers of churn** and propose **actionable recom
 ---
 ## 📊 Dashboard Preview
 
-### 💰 Revenue Performance Overview
+### 💰 Dashboard Overview
 
 ![Dashboard](/dashboard.png)
 
